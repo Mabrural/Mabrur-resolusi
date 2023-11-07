@@ -4,7 +4,10 @@ RENCANA KONTEN MABRUR
   - Framework Javascript
     * Angular
     * React
+    * Vue
 2. PHP Framework
     * laravel
-
 3. Interview
+4. Struktur data dasar
+5. Vlog
+
