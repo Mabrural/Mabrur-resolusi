@@ -2,6 +2,11 @@ RENCANA KONTEN MABRUR
 1. Javascript
   - ES6
   - Framework Javascript
+    * Vue
+    * React
 2. PHP Framework
+  - Laravel
 3. Interview
 4. Struktur data dasar
+5. Vlog
+6. Python
